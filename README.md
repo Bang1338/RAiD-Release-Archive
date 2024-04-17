@@ -1,5 +1,5 @@
 <h1 align="center">
-RAiD Release Archive
+RAiD Release Archive (completed)
 </h1>
 
 <p align="center"> 
@@ -17,3 +17,4 @@ RAiD Release Archive
 <h3 align="center">
 A great cr@cker team that short aged.
 </h3>
+
